@@ -7,8 +7,6 @@ This repository contains the official code for the paper, **"Relation Editing fo
 While most research focuses on updating objects (e.g., changing *Paris* in "France's capital is *Paris*"), we explore the challenge of editing the relationship itself (e.g., changing *capital is* to *largest city is*). Our work introduces a new benchmark, a novel editing framework, and an advanced algorithm to address this task effectively.
 
 ![The SPaEdit Architecture](resource/fig2.png)
-*Figure: The overall architecture of our SPaEdit method, designed for robust relation editing.*
-
 ---
 
 ## 💡 Core Contributions
