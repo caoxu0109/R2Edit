@@ -12,8 +12,7 @@ While most research focuses on updating objects (e.g., changing *Paris* in "Fran
 ## 💡 Core Contributions
 
 *   **A New Frontier: Relation Editing:** We highlight the limitations of existing knowledge editing methods when faced with relation edits and introduce a dedicated dataset, `ReEditBench`, to spur research in this area.
-*   **Forgetting-and-Editing (FE) Framework:** To overcome the model's persistence with outdated facts, we propose a two-step framework. We first encourage the model to "forget" the old relationship before teaching it the new one.
-*   **Self-Paced AlphaEdit (SPaEdit):** We introduce a powerful new algorithm that combines a self-paced learning strategy with the strong foundation of AlphaEdit. This method intelligently handles challenging edits and demonstrates state-of-the-art performance.
+*   **R2EDIT:** To overcome the model's persistence with outdated facts, we propose a two-step framework. We first encourage the model to "forget" the old relationship before teaching it the new one.
 
 Our experiments show that our strategies excel at the novel task of relation editing. Furthermore, our flagship algorithm, **SPaEdit**, also surpasses leading methods on traditional object editing benchmarks.
 
