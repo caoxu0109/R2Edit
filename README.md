@@ -1,8 +1,8 @@
-# ⚔️ Relation Editing for Large Language Models
+# ⚔️ Relation Replacement Editing for Large Language Models
 
 **A Framework for Editing Relations in Large Language Models**
 
-This repository contains the official code for the paper, **"Relation Editing for Large Language Models"**. We tackle a crucial, yet overlooked, aspect of knowledge editing: changing the *relation* in a subject-relation-object triple.
+This repository contains the official code for the paper, **"Relation Replacement Editing for Large Language Models"**. We tackle a crucial, yet overlooked, aspect of knowledge editing: changing the *relation* in a subject-relation-object triple.
 
 While most research focuses on updating objects (e.g., changing *Paris* in "France's capital is *Paris*"), we explore the challenge of editing the relationship itself (e.g., changing *capital is* to *largest city is*). Our work introduces a new benchmark, a novel editing framework, and an advanced algorithm to address this task effectively.
 
