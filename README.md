@@ -6,7 +6,7 @@ This repository contains the official code for the paper, **"Relation Replacemen
 
 While most research focuses on updating objects (e.g., changing *Paris* in "France's capital is *Paris*"), we explore the challenge of editing the relationship itself (e.g., changing *capital is* to *largest city is*). Our work introduces a new benchmark, a novel editing framework, and an advanced algorithm to address this task effectively.
 
-![The SPaEdit Architecture](resource/rel.png)
+![The R2Edit Architecture](resource/rel.png)
 ---
 
 ## 💡 Core Contributions
@@ -14,7 +14,7 @@ While most research focuses on updating objects (e.g., changing *Paris* in "Fran
 *   **A New Frontier: Relation Editing:** We highlight the limitations of existing knowledge editing methods when faced with relation edits and introduce a dedicated dataset, `ReEditBench`, to spur research in this area.
 *   **R2EDIT:** To overcome the model's persistence with outdated facts, we propose a two-step framework. We first encourage the model to "forget" the old relationship before teaching it the new one.
 
-Our experiments show that our strategies excel at the novel task of relation editing. Furthermore, our flagship algorithm, **SPaEdit**, also surpasses leading methods on traditional object editing benchmarks.
+Our experiments show that our strategies excel at the novel task of relation editing. Furthermore, our flagship algorithm, **R2Edit**, also surpasses leading methods on traditional object editing benchmarks.
 
 ## ⚙️ Setup and Installation
 
