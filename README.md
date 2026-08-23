@@ -1,5 +1,6 @@
 # ⚔️ Relation Replacement Editing for Large Language Models
-
+## 🎉 News
+* Our paper has been accepted to **EMNLP 2026**!
 **A Framework for Editing Relations in Large Language Models**
 
 This repository contains the official code for the paper, **"Relation Replacement Editing for Large Language Models"**. We tackle a crucial, yet overlooked, aspect of knowledge editing: changing the *relation* in a subject-relation-object triple.
